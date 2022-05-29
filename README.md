@@ -4,7 +4,8 @@ In this Project, I am sharing some basic codes for Swift programming language be
 
 # Swift 
 
-![Logo]([https://raw.githubusercontent.com/yusufyldrm16/Image-And-Video/main/SwiftIcon.png?token=GHSAT0AAAAAABP4PUDS4YUZ5JL65WPVTUQ4YUSXBIA](https://icon-library.com/images/swift-icon/swift-icon-10.jpg))
+
+![SwiftIcon](https://user-images.githubusercontent.com/83227022/170848743-0e6b04af-515a-4cf7-8fe4-12a0de6446a9.png)
 
 ## Rozetler
 
